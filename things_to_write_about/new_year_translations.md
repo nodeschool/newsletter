@@ -1,3 +1,5 @@
+Update: this was included in the Feb 2015 newsletter
+
 # New year translations
 Last year in december @maxogden [tried to get NodeSchoolers to work on translation](https://github.com/nodeschool/organizers/issues/64).
 And we do have significant process on this front. [Workshopper](https://github.com/rvagg/workshopper), the base for a lot of content related to nodeschool, has been already translated into 
